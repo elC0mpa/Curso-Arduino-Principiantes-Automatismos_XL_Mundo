@@ -5,7 +5,7 @@
 Este tema del curso es impartido de la siguiente manera:
 
 1. [Inroducción a Fritzing y conexiones básicas de Arduino](https://www.youtube.com/watch?v=XzZs-9_4cFM)
-2. [Entradas digitales, encuesta vs interrupción](www)
+2. [Entradas digitales, encuesta vs interrupción](https://www.youtube.com/watch?v=yo_qUBcRxEI&t=12s)
 
 Los proyectos del mismo están a continuación:
 

@@ -5,3 +5,5 @@ Curso de Arduino para principiantes impartido en [Automatismos_XL_Mundo](https:/
 ## Temas impartidos hasta la actualidad
 
 1. [Entradas Salidas digitales](https://github.com/elC0mpa/Curso-Arduino-Principiantes-Automatismos_XL_Mundo/tree/main/Tema1.%20Entradas%20salidas%20digitales)
+
+2. [Trabajo con librerías](https://github.com/elC0mpa/Curso-Arduino-Principiantes-Automatismos_XL_Mundo/tree/main/Tema2.%20Trabajo%20con%20librerías)

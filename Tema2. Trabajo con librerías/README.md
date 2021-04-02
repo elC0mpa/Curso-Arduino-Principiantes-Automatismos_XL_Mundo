@@ -5,6 +5,7 @@
 Este tema del curso es impartido de la siguiente manera:
 
 1. [Trabajo con Librerías en Platformio. EasyButton, la mejor librería para botones.](https://www.youtube.com/watch?v=syA3kyBwRBU)
+2. [Trabajo con el sensor DHT para obtener datos de Humedad relativa y temperatura.](https://www.youtube.com/watch?v=2gtNOrPh74Y)
 
 Los proyectos del mismo están a continuación:
 

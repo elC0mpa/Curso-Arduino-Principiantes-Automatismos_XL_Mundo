@@ -9,5 +9,5 @@ Este tema del curso es impartido de la siguiente manera:
 
 Los proyectos del mismo están a continuación:
 
-1. [Working with EasyButton](https://github.com/elC0mpa/Curso-Arduino-Principiantes-Automatismos_XL_Mundo/tree/main/Tema2.%20Trabajo%20con%20librer%C3%ADas/01%20-%20Working%20with%20EassyButton)
-2. [Working with DHT11](https://github.com/elC0mpa/Curso-Arduino-Principiantes-Automatismos_XL_Mundo/tree/main/Tema2.%20Trabajo%20con%20librer%C3%ADas/02%20-%20Working%20with%20DHT11)
+
+2. [Timer Interrupts](https://github.com/elC0mpa/Curso-Arduino-Principiantes-Automatismos_XL_Mundo/tree/main/Tema3.%20Temporizaci%C3%B3n/02%20-%20Timer_Interrupts)
